@@ -1,13 +1,1 @@
-# Nmap 7.93 scan initiated Mon Mar 13 13:25:44 2023 as: nmap -sP -oN data/nmap-orig-output.txt 192.168.1.*
-Nmap scan report for CR1000A.mynetworksettings.com (192.168.1.1)
-Host is up (0.00047s latency).
-MAC Address: 78:67:0E:5E:9D:41 (Wistron Neweb)
-Nmap scan report for 192.168.1.154
-Host is up (0.063s latency).
-MAC Address: C8:C9:A3:67:46:5C (Espressif)
-Nmap scan report for NOBUYOSHI-001 (192.168.1.167)
-Host is up (0.024s latency).
-MAC Address: 8C:B8:7E:52:0E:22 (Intel Corporate)
-Nmap scan report for s07091012_bsd (192.168.1.160)
-Host is up.
-# Nmap done at Mon Mar 13 13:25:46 2023 -- 256 IP addresses (4 hosts up) scanned in 1.91 seconds
+
