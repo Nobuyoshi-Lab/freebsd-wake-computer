@@ -1,4 +1,1 @@
-CR1000A.mynetworksettings.com 78:67:0E:5E:9D:41 Wistron Neweb
-NOBUYOSHI-001 8C:B8:7E:52:0E:22 Intel Corporate
-s07091012_bsd
-192.168.1.154 C8:C9:A3:67:46:5C Espressif
+
