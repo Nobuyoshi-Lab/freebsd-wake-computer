@@ -19,8 +19,8 @@ pkg install bash nmap sudo
 To use these scripts, clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/your_repository_url.git
-cd your_repository_directory
+git clone https://github.com/Nobuyoshi-Lab/freebsd-wake-computer.git
+cd freebsd-wake-computer
 ```
 
 ## Usage
